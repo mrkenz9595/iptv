@@ -38,14 +38,14 @@ https://vips-livecdn.fptplay.net/MzkxNTIyMHxodHYzX2hscy5zbWlsfGZwdHwxNzM0Njg1ODg
 https://vips-livecdn.fptplay.net/MzkxNTIyMHxodHY3aGRfYWJyLnNtaWx8ZnB0fDE3MzQ2ODU5MTh8NDIuMTEzLjE0OS4zNXw5ZGQzNzk5ZjhjYzhlM2Y3NjZiNjFmMmZiMDlkNGM1Yg/epzch2/htv7hd_abr.smil/playlist.m3u8
 #EXTINF:-1 group-title="HTV" tvg-logo="https://i.ibb.co/j6BCF0M/cchtv9.webp" tvg-id="a5912ec47c1aef3975515bede476bbcf",HTV9 HD
 https://vips-livecdn.fptplay.net/MzkxNTIyMHxodHY5aGRfdmhscy5zbWlsfGZwdHwxNzM0Njg1OTU2fDQyLjExMy4xNDkuMzV8NWEyNjU3YTAwYmFkY2RlNzhjYTZlMjMwNzg5NWNmZWE/epzhd1/htv9hd_vhls.smil/playlist.m3u8
-#EXTINF:-1 group-title="HTV" tvg-logo="https://i.imgur.com/ZHVkEIC.png" tvg-id="4009e0a06b8eba5abf6be992510a7eac",HTVC Ca Nhạc (HD 6Mbps)
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/551553344?profile=pass
-#EXTINF:-1 group-title="HTV" tvg-logo="https://i.imgur.com/XxIO0E0.png" tvg-id="ef5e2ae9aacf989d46128376630a73d0",HTVC Du Lịch và Cuộc Sống (HD 6Mbps)
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1764384495?profile=pass
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.ibb.co/Z1Dhx8X/cchtvccanhac.webp" tvg-id="4009e0a06b8eba5abf6be992510a7eac",HTVC Ca Nhạc
+https://vips-livecdn.fptplay.net/MzkxNTIyMHxodHZjbXVzaWNfdmhscy5zbWlsfGZwdHwxNzM0Njg2MjMyfDQyLjExMy4xNDkuMzV8ZDJlYTYyZjNkM2M4YWZkOTZjM2ZkYTNiMzU1M2IyY2U/epzhd1/htvcmusic_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.ibb.co/25yJ9rv/cchtvcdulich.webp" tvg-id="ef5e2ae9aacf989d46128376630a73d0",HTVC Du Lịch và Cuộc Sống
+https://vips-livecdn.fptplay.net/MzkxNTIyMHxodHZjZHVsaWNoX3ZobHMuc21pbHxmcHR8MTczNDY4NjI5M3w0Mi4xMTMuMTQ5LjM1fGY2NzFmNDM4ZGZlM2E5YWZlMzJiZDVhMzAyYWJmNGRi/epzhd1/htvcdulich_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="HTV" tvg-logo="https://i.imgur.com/KxWRNH6.png" tvg-id="aef2a410c83827f38f23b43163e41c0d",HTVC Gia Đình (HD 6Mbps)
 http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/279245486?profile=pass
-#EXTINF:-1 group-title="HTV" tvg-logo="https://i.imgur.com/SXV3ya9.png" tvg-id="61894f47d320186ea79a37150dcf370d",HTVC Phim (HD 4.5Mbps)
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1196394849?profile=pass
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.ibb.co/YB72fKd/cchtvcphim.webp" tvg-id="61894f47d320186ea79a37150dcf370d",HTVC Phim
+https://vips-livecdn.fptplay.net/MzkxNTIyMHxodHZjbW92aWVzaGRfdmhscy5zbWlsfGZwdHwxNzM0Njg2MTc0fDQyLjExMy4xNDkuMzV8ZTdmMzQ2ZWYxZjBlOGQ5NjczM2QyZGFlZTAzZDc5YWY/epzhd1/htvcmovieshd_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="HTV" tvg-logo="https://i.imgur.com/SXV3ya9.png" tvg-id="f029c9e76e2c5b087be7491f0cb8610e",HTVC Phim (HD 4.5Mbps)
 http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1741236720?profile=pass
 #EXTINF:-1 group-title="HTV" tvg-logo="https://i.imgur.com/PLliKL6.png" tvg-id="bfba9bb09043b9a567c4f8ef59bca7dc",HTVC Phụ Nữ (HD 6Mbps)
