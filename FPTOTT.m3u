@@ -64,21 +64,20 @@ https://vips-livecdn.fptplay.net/MzkxNTIyMHx2dGMyX2hscy5zbWlsfGZwdHwxNzM0Njk5NDA
 https://vips-livecdn.fptplay.net/MzkxNTIyMHx2dGMzaGRfdmhscy5zbWlsfGZwdHwxNzM0Njk5NDgwfDQyLjExMy4xNDkuMzV8YTYyYTc0YzUxNDFlMmQ1OGVkZTk4MDg2M2Y5ZWE5ZDA/fnxhd2/vtc3hd_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/c1MK3VC/ccvtc4.webp" tvg-id="a5cdd28d8f6f252e0b7044f03abc62ae",VTC4 HD
 https://vips-livecdn.fptplay.net/MzkxNTIyMHx2dGM0X2hscy5zbWlsfGZwdHwxNzM0Njk5NTM0fDQyLjExMy4xNDkuMzV8NDdlZmFkZWJhZWM3MDMxYzBmNTJhNzc2MjNjY2EzYzU/fnxhd2/vtc4_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/PaVbyxg.png" tvg-id="4621f306582ff303e6a3dc855749e1e3",VTC10 HD (HD 8.5Mbps)
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/116597062?profile=pass
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/phXvB0t.png" tvg-id="b1e680d9bb3c50f9ca203569d86cf26a",VTC14 HD (HD 8.5Mbps)
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1501619889?profile=pass
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/rltq2Dy.png" tvg-id="ab7bcf638ed35688166f07292a692f64",VTC16 HD (HD 8.5Mbps)
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1674541995?profile=pass
-
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/VvfiwPJ.png" tvg-id="d50dcbd34ef2e0bf839bb15407139f2b",VTC5 HD (HD 8.5Mbps)
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1405816277?profile=pass
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/LPdjM0z.png" tvg-id="e557f59a2e98964ebb02cbb680beb520",VTC6 HD (HD 8Mbps)
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/452286437?profile=pass
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/Y5FUbsY.png" tvg-id="01faa81a8fd641b6054c5c487909fa99",VTC7 HD (HD 8.5Mbps)
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/447281665?profile=pass
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/cnAht7i.png" tvg-id="83d28e41038c5c60a30ad17df59ffe73",VTC9 HD (HD 8.5Mbps)
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1099879043?profile=pass
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/v1bS1qB/ccvtc5.webp" tvg-id="a5cdd28d8f6f252e0b7044f03abc62ae",VTC5 HD
+https://vips-livecdn.fptplay.net/MzkxNTIyMHx2dGM1X2hscy5zbWlsfGZwdHwxNzM0NzAxODk1fDQyLjExMy4xNDkuMzV8NzcwNTAxN2M4MGEwNjYzODJlZjZjM2VhNjg1ZDM5YzQ/fnxhd2/vtc5_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/mSVx5qD/ccvtc6.webp" tvg-id="e557f59a2e98964ebb02cbb680beb520",VTC6 HD
+https://vips-livecdn.fptplay.net/MzkxNTIyMHx2dGM2X3ZobHMuc21pbHxmcHR8MTczNDcwMTk0M3w0Mi4xMTMuMTQ5LjM1fDRiMGU3NjA5M2ViZTAyMDkxYTcxMzJlOTIxMWY1ODY4/fnxhd2/vtc6_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/GM316DX/ccvtc7.webp" tvg-id="01faa81a8fd641b6054c5c487909fa99",VTC7 HD
+https://vips-livecdn.fptplay.net/MzkxNTIyMHx0b2RheXR2X2hscy5zbWlsfGZwdHwxNzM0NzAxOTk3fDQyLjExMy4xNDkuMzV8MGQ2OTZjNGQxZGY5Mzg3ZDMwM2E1NTgzMDYxZWE3YTY/fnxhd2/todaytv_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/9ykJYxD/ccvtc8.webp" tvg-id="4621f306582ff303e6a3dc855749e1e3",VTC8 HD
+https://vips-livecdn.fptplay.net/MzkxNTIyMHx2dGM4X2hscy5zbWlsfGZwdHwxNzM0NzAyMDI3fDQyLjExMy4xNDkuMzV8ZDg0OTU4ZTk3NGNiMjNiNDUwYzIxNzQ4MWUxZWRhYzE/fnxhd2/vtc8_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/GcXQ0h2/ccvtc9.webp" tvg-id="83d28e41038c5c60a30ad17df59ffe73",VTC9 HD
+https://vips-livecdn.fptplay.net/MzkxNTIyMHx2dGM5X2hscy5zbWlsfGZwdHwxNzM0NzAyMDczfDQyLjExMy4xNDkuMzV8NWEzMDhkNzdkYTBkYmViZDM2YTA4OWNmOTNlOThjNWI/fnxhd2/vtc9_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/4fPKsm7/ccvtv10.webp" tvg-id="83d28e41038c5c60a30ad17df59ffe73",VTC10 HD
+https://vips-livecdn.fptplay.net/MzkxNTIyMHx2dGMxMGhkX3ZobHMuc21pbHxmcHR8MTczNDcwMjE0MHw0Mi4xMTMuMTQ5LjM1fGJlMWQxZWZmMGVlM2VmNGU2ODRjZWU1N2MwYzk2ZGU4/fnxhd2/vtc10hd_vhls.smil/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/j88bPrT/ccvtc11.webp" tvg-id="83d28e41038c5c60a30ad17df59ffe73",VTC11 HD
+https://vips-livecdn.fptplay.net/MzkxNTIyMHx2dGMxMV9obHMuc21pbHxmcHR8MTczNDcwMjE5Nnw0Mi4xMTMuMTQ5LjM1fGRjNzM5MTY4MTFjNDc5MWFhMWMzMGViYTE2YTNmODRm/fnxhd2/vtc11_hls.smil/playlist.m3u8
 
 #-----------------------Quốc Tế-------------------------------#
 #EXTINF:-1 group-title="Quốc Tê" tvg-logo="https://i.imgur.com/TBgGuJy.png" tvg-id="6e6d6650f5d3448e6f80e08375906bef",Animal Planet (HD 10Mbps)
