@@ -86,10 +86,10 @@ https://vips-livecdn.fptplay.net/MzkxNTIyMHx2dGMxNl9obHMuc21pbHxmcHR8MTczNDcwMjY
 #-----------------------Quốc Tế-------------------------------#
 #EXTINF:-1 group-title="Quốc Tê" tvg-logo="https://i.imgur.com/TBgGuJy.png" tvg-id="6e6d6650f5d3448e6f80e08375906bef",Animal Planet (HD 10Mbps)
 http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1348889966?profile=pass
-#EXTINF:-1 group-title="Quốc Tê" tvg-logo="https://i.imgur.com/eGkFbAh.png" tvg-id="69a9689b23896d1de1d9acf74b624f31",ANTV
-http://hothanhdam:thanhdam1010@192.168.11.10:9981/stream/channelid/459843945?profile=pass
-#EXTINF:-1 group-title="Quốc Tê" tvg-logo="https://i.imgur.com/KL9oaqc.png" tvg-id="fe9ee4a5914aec516e5864e76cb0f398",Asian Food Network (HD 6.5Mbps)
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/635739902?profile=pass
+#EXTINF:-1 group-title="Quốc Tê" tvg-logo="https://i.ibb.co/TMN82zb/ccariang.png" tvg-id="69a9689b23896d1de1d9acf74b624f31",Arirang
+https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Quốc Tê" tvg-logo="https://i.ibb.co/Lv6jzF8/ccafn.png" tvg-id="fe9ee4a5914aec516e5864e76cb0f398",Asian Food Network (HD 6.5Mbps)
+https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Quốc Tê" tvg-logo="https://i.imgur.com/Rwm7Lod.png" tvg-id="6662aacec97a11e6306e3bb5bb0d18b8",AXN (HD 8.5Mbps)
 http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1319789158?profile=pass
 #EXTINF:-1 group-title="Quốc Tê" tvg-logo="https://i.imgur.com/0t99xJZ.png" tvg-id="bf82213187987ba3c1014b51f91a413c",BBC CBeeBies (HD 9Mbps)
@@ -113,7 +113,7 @@ http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1426505434?pr
 #EXTINF:-1 group-title="Quốc Tê" tvg-logo="https://i.imgur.com/RCd9AM9.png" tvg-id="17b8fe8cdcb8668c15e088ce5a98df4c",CNN (HD 6Mbps)
 http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/218019863?profile=pass
 #EXTINF:-1 group-title="Quốc Tê" tvg-logo="https://i.imgur.com/t9fzARL.png" tvg-id="fefcc24c79038f403c47d53d3200ec38",Da Vinci (HD 7.5Mbps)
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1287847166?profile=pass
+https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Quốc Tê" tvg-logo="https://i.imgur.com/STCTI1F.png" tvg-id="bf0df02a99ec1f53d3c9f376ac8ad4f3",Discovery Asia (HD 9.5Mbps)
 http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/720375231?profile=pass
 #EXTINF:-1 group-title="Quốc Tê" tvg-logo="https://i.imgur.com/2JR5vSZ.png" tvg-id="55e00fe45abcf641e6f8324c7c0d7b57",Discovery Channel (HD 10Mbps)
