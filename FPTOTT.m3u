@@ -54,8 +54,6 @@ https://vips-livecdn.fptplay.net/MzkxNTIyMHxodHZjdGh1YW52aWV0aGRfdmhscy5zbWlsfGZ
 https://vips-livecdn.fptplay.net/MzkxNTIyMHxodHZjcGx1c192aGxzLnNtaWx8ZnB0fDE3MzQ2OTkyMzh8NDIuMTEzLjE0OS4zNXxhZTc2OGJkYzljOWI0NDI1YTY0NzBkOWQ4N2Y4YzA1Mg/epzhd1/htvcplus_vhls.smil/playlist.m3u8
 
 #-----------------------VTC-------------------------------#
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/GmefCpv.png" tvg-id="11898369c77990c4aad67b94fde0f352",VNEWS
-https://vips-livecdn.fptplay.net/MzkxNTIyMHx0dHh2bl92aGxzLnNtaWx8ZnB0fDE3MzQ3MDI4MzB8NDIuMTEzLjE0OS4zNXwyN2ZhZGYyZjljMmY1ZjllYmE5MzcxYjg0ZDUwYmY3ZQ/epzhd2/ttxvn_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/mC3Cvfm/ccvtc1.webp" tvg-id="fb0ac43a4ee4b8c9a4217dcc64912702",VTC1 HD
 https://vips-livecdn.fptplay.net/MzkxNTIyMHx2dGMxX3ZobHMuc21pbHxmcHR8MTczNDY5OTM1Nnw0Mi4xMTMuMTQ5LjM1fDRmYzczNGY1YTY3MmI2OTdjODcwYzc1MzU3YzE2MjA4/fnxhd2/vtc1_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/MfRJfgm/ccvtc2.webp" tvg-id="fb0ac43a4ee4b8c9a4217dcc64912702",VTC2 HD
@@ -88,7 +86,7 @@ https://vips-livecdn.fptplay.net/MzkxNTIyMHx2dGMxNl9obHMuc21pbHxmcHR8MTczNDcwMjY
 http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1348889966?profile=pass
 #EXTINF:-1 group-title="Quốc Tê" tvg-logo="https://i.ibb.co/TMN82zb/ccariang.png" tvg-id="69a9689b23896d1de1d9acf74b624f31",Arirang
 https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Quốc Tê" tvg-logo="https://i.ibb.co/Lv6jzF8/ccafn.png" tvg-id="fe9ee4a5914aec516e5864e76cb0f398",Asian Food Network (HD 6.5Mbps)
+#EXTINF:-1 group-title="Quốc Tê" tvg-logo="https://i.ibb.co/Lv6jzF8/ccafn.png" tvg-id="fe9ee4a5914aec516e5864e76cb0f398",Asian Food Network
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Quốc Tê" tvg-logo="https://i.imgur.com/Rwm7Lod.png" tvg-id="6662aacec97a11e6306e3bb5bb0d18b8",AXN (HD 8.5Mbps)
 http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1319789158?profile=pass
@@ -120,24 +118,98 @@ http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/720375231?pro
 http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1678762069?profile=pass
 #EXTINF:-1 group-title="Quốc Tê" tvg-logo="https://i.imgur.com/N69Cori.png" tvg-id="3395904977f01966d2fabb5a5115592e",Dreamworks (HD 15Mbps)
 http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1234212147?profile=pass
-#EXTINF:-1 group-title="Quốc Tê" tvg-logo="https://i.imgur.com/Ppi36a4.png" tvg-id="3b17d2306ebf3a93ebafa691faf90b97",DW (English) (HD 8.5Mbps)
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/819074875?profile=pass
+#EXTINF:-1 group-title="Quốc Tê" tvg-logo="https://i.ibb.co/4dm1QtB/dw.png" tvg-id="3b17d2306ebf3a93ebafa691faf90b97",DW
+https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Quốc Tê" tvg-logo="https://i.imgur.com/ALDt1JX.png" tvg-id="8bf2ccff6752fae6085d82331343b7b6",Fashion TV (HD 8.5Mbps)
 http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/2144137867?profile=pass
 #EXTINF:-1 group-title="Quốc Tê" tvg-logo="https://i.imgur.com/7nIUtCU.png" tvg-id="36de86ac20bd29aacd24036d8053d261",HBO (HD 11Mbps)
 http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/747036214?profile=pass
+#EXTINF:-1 group-title="Quốc Tê" tvg-logo="https://i.ibb.co/7X8dd3F/ccoutdoor.png" tvg-id="36de86ac20bd29aacd24036d8053d261",Outdoor Channel HD
+https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="Quốc Tê" tvg-logo="https://i.imgur.com/Ud78FHF.png" tvg-id="e97cd551b242c66711239a6436b6243a",Nhân Dân TV (HD 7Mbps)
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1372945641?profile=pass
-
-#EXTINF:-1 group-title="Quốc Tê" tvg-logo="https://i.imgur.com/UIGZw0y.png" tvg-id="0d3c1b3dfe5740ae9b4013b5763840b7",QPVN
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1025195021?profile=pass
-#EXTINF:-1 group-title="Quốc Tê" tvg-logo="https://i.imgur.com/UIGZw0y.png" tvg-id="a3e354221c4c60ea3a249e1881226058",QPVN (HD 6Mbps)
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/575988643?profile=pass
-#EXTINF:-1 group-title="Quốc Tê" tvg-logo="https://i.imgur.com/YtZGuSy.png" tvg-id="94706ef3acf8840fa3bbb6735dcf319c",Quốc Hội HD (HD 4Mbps)
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1936617620?profile=pass
-#EXTINF:-1 group-title="Quốc Tê" tvg-logo="https://i.imgur.com/YtZGuSy.png" tvg-id="9e98727eb96f168ec7f22795ba96c255",Quốc Hội HD (HD 4Mbps)
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/2121439390?profile=pass
-
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.ibb.co/PGxCzX8/ccVL1.webp" tvg-id="d4d5a5b6d3a89cd2d3f6445830e40aa4",Vĩnh Long 1
-https://vips-livecdn.fptplay.net/MzkxNTIyMHx2aW5obG9uZzFfYWJyLnNtaWx8ZnB0fDE3MzQ2OTg3ODJ8NDIuMTEzLjE0OS4zNXxhZjg4NmUyYWVkODI2NjljMTI1ZGQ1ODQ2OWNhZWI4Yw/epzch2/vinhlong1_abr.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.ibb.co/WG9xkxb/ccquochoi.webp",Quốc Hội TV
+https://media.quochoitv.vn/live/quochoitv_480p/stream.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="qpvnhd" tvg-logo="https://i.ibb.co/tK6PMzy/ccquocphong.webp",Quốc Phòng TV
+https://liveh34.vtvcab.vn/hls/ONQUOCPHONG_CL/index.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="antvhd" tvg-logo="https://i.ibb.co/P6ZDPCf/ccanninh.webp",An Ninh TV
+https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="nhandan" tvg-logo="https://i.ibb.co/P1cSJjp/ccnhandan.png",Nhân Dân TV
+https://arpt.tvic.vn/live/nhandan720/playlist.m3u8
+#EXTINF:-1 tvg-id="ttxvnhd" group-title="Địa phương" tvg-logo="https://i.ibb.co/9G9bfmf/ccthongtan.webp",V.News TV
+https://live.fptplay53.net/epzhd2/ttxvn_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1  group-title="Địa phương" tvg-id="vovtvhd" tvg-logo="https://i.ibb.co/TR49XV0/ccvovtv.webp",VOV TV
+https://live.fptplay53.net/fnxsd1/vovtvsd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="vinhlong1hd" tvg-logo="https://i.ibb.co/PGxCzX8/ccVL1.webp",Vĩnh Long 1
+https://live.fptplay53.net/epzhd2/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="vinhlong2hd" tvg-logo="https://i.ibb.co/0FDCSbz/ccVL2.webp",Vĩnh Long 2
+https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="vinhlong3hd" tvg-logo="https://i.ibb.co/xg7jXGs/ccVL3.webp",Vĩnh Long 3
+https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="vinhlong4hd" tvg-logo="https://i.ibb.co/74ydSzT/ccVL4.webp",Vĩnh Long 4
+https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="vinhphuc" tvg-logo="https://i.ibb.co/9YtVjcy/ccvinhphuc.webp",Vĩnh Phúc
+https://live.fptplay53.net/fnxsd1/vinhphuc_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="vungtau" tvg-logo="https://i.ibb.co/ThYZvSW/ccvungtau.webp",Vũng Tàu
+https://live.fptplay53.net/epzsd1/bariavungtau_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="angiang" tvg-logo="https://i.ibb.co/2S90Qjd/ccangiang.webp",An Giang
+https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="bentre" tvg-logo="https://i.ibb.co/xhSTHBj/ccbentre.webp",Bến Tre
+https://live.fptplay53.net/epzsd1/bentre_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="baclieu" tvg-logo="https://i.ibb.co/sq4hBPG/ccbaclieu.webp",Bạc Liêu
+https://live.fptplay53.net/epzsd1/baclieu_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="baclieu" tvg-logo="https://1clip.bacgiangtv.vn/upload/files/logo/v3/logo_v3.png",Bắc Giang
+https://live.fptplay53.net/fnxsd1/bacgiang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="baclieu" tvg-logo="https://s129135.cdn.mytvnet.vn/vimages/d8/87/7c/ce/ef/f2/d87ce-pbckntv-channel-unkn.png",Bắc Kạn
+https://live.fptplay53.net/fnxsd1/backan_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="camau" tvg-logo="https://i.ibb.co/h9Kb6FW/cccamau.webp",Cà Mau
+https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="cantho" tvg-logo="https://i.ibb.co/7tG6M3v/cccantho.png",Cần Thơ
+https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="caobang" tvg-logo="https://i.ibb.co/wWgP3xk/cccaobang.webp",Cao Bằng
+https://live.fptplay53.net/fnxsd1/caobang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="danang1" tvg-logo="https://i.ibb.co/zRTmjRZ/ccdanang1.webp",Đà Nẵng 1
+https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="danang2" tvg-logo="https://i.ibb.co/89GWvQL/ccdanang2.webp",Đà Nẵng 2
+https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="daklak" tvg-logo="https://i.ibb.co/PNzprxr/ccdaklak.webp",Đăk Lăk
+https://live.fptplay53.net/epzsd1/daklak_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="daknong" tvg-logo="https://i.ibb.co/LSTmygk/ccdaknong.webp",Đăk Nông
+https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/playlist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="dienbien" tvg-logo="https://i.ibb.co/wgGDnCV/ccdienbien-svg.png",Điện Biên
+https://live.fptplay53.net/fnxsd1/dienbien_hls.smil/chunklist_b2500000.m3u8 
+#EXTINF:-1 group-title="Địa phương" tvg-id="dongnai1" tvg-logo="https://i.ibb.co/brWbQt4/ccdongnai1.webp",Đồng Nai 1
+https://live.fptplay53.net/epzsd1/dongnai1_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="dongnai2" tvg-logo="https://i.ibb.co/0sm75cC/ccdongnai2.webp",Đồng Nai 2
+https://live.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="dongthap" tvg-logo="https://i.ibb.co/ZcfJyD2/ccdongthap.webp",Đồng Tháp 1
+https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="mientay" tvg-logo="https://i.ibb.co/CVdMzC3/ccmientay.webp",Đồng Tháp 2
+https://64d0d74b76158.streamlock.net/THDT2/thdttv2/playlist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="hanoi1" tvg-logo="https://i.ibb.co/yQxsXhs/cchanoi1.webp",Hà Nội 1
+https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="hanoi2" tvg-logo="https://i.ibb.co/B4Gy5BW/cchanoi2.webp",Hà Nội 2
+https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="hanam" tvg-logo="https://i.ibb.co/pvjwJSL/cchanam.webp",Hà Nam
+https://live.fptplay53.net/fnxsd1/hanam_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="hagiang" tvg-logo="https://i.ibb.co/2tJgRCq/cchagiang.webp",Hà Giang
+https://live.fptplay53.net/fnxsd1/hagiang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="hatinh" tvg-logo="https://i.ibb.co/G7tnzWx/cchatinh.webp",Hà Tĩnh
+https://live.fptplay53.net/fnxsd1/hatinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="haiduong" tvg-logo="https://i.ibb.co/MZHbjxw/cchaiduong.webp",Hải Dương
+https://live.fptplay53.net/fnxsd1/haiduong_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="haiphong" tvg-logo="https://i.ibb.co/yykrwPX/cchaiphong.webp",Hải Phòng
+https://live.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="haiphongplus" tvg-logo="https://i.ibb.co/cJRWQWw/cchaiphongplus.webp",Hải Phòng+
+https://live.fptplay53.net/fnxsd1/haiphongplus_hls.smil/chunklist_b2500000.m3u8 
+#EXTINF:-1 group-title="Địa phương" tvg-id="haugiang" tvg-logo="https://i.ibb.co/ZVsNkSs/cchaugiang.webp",Hậu Giang
+https://live.fptplay53.net/epzsd1/haugiang_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="hoabinh" tvg-logo="https://i.ibb.co/YbHHR7W/cchoabinh.webp",Hòa Bình
+https://live.fptplay53.net/fnxsd1/hoabinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="hue" tvg-logo="https://i.ibb.co/9yc6TL4/cchue.webp",Huế
+https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="hungyen" tvg-logo="https://i.ibb.co/7Qk3tYz/cchungyen.webp",Hưng Yên
+https://live.fptplay53.net/fnxsd1/hungyen_2000.stream/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="hungyen" tvg-logo="https://i.ibb.co/7VVbjhx/KG-Kien-Giang-logo-2009.webp",Kiên Giang
+https://live.fptplay53.net/epzsd1/kiengiang_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-id="yenbai" tvg-logo="https://i.ibb.co/3WFQXgB/Yen-Bai-cc.webp",Yên Bái
+https://live.fptplay53.net/fnxsd1/yenbai_hls.smil/chunklist_b2500000.m3u8
