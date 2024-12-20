@@ -180,3 +180,6 @@ http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1946352900?pr
 http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/556914677?profile=pass
 #EXTINF:-1 group-title="K+ DMR" tvg-logo="https://i.imgur.com/EFeyqYX.png" tvg-id="d128442039a8b881a5daa31e43a12181",K+ Sport 2 (DRM)
 http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/541337809?profile=pass
+
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.ibb.co/PGxCzX8/ccVL1.webp" tvg-id="d4d5a5b6d3a89cd2d3f6445830e40aa4",Vĩnh Long 1
+https://vips-livecdn.fptplay.net/MzkxNTIyMHx2aW5obG9uZzFfYWJyLnNtaWx8ZnB0fDE3MzQ2OTg3ODJ8NDIuMTEzLjE0OS4zNXxhZjg4NmUyYWVkODI2NjljMTI1ZGQ1ODQ2OWNhZWI4Yw/epzch2/vinhlong1_abr.smil/chunklist_b1800000.m3u8
