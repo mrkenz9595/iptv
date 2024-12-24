@@ -1,5 +1,5 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
-#-----------------------vtv-------------------------------#
+#EXTM3U url-tvg="http://trada.info/epg.xml,http://lichphatsong.xyz/schedule/beartv_epg.xml,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml,http://epg.51zmt.top:8000/e.xml,http://iptvx.one/EPG,http://epg.it999.ru/epg.xml.gz"
+#-----------------------VTV-------------------------------#
 #EXTINF:1 tvg-id="vtv1hd" tvg-name="VTV1 HD" group-title="VTV" tvg-logo="https://i.ibb.co/y8s34Vs/ccvtv1.webp",VTV1 HD
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.ibb.co/ZHCQSWY/ccvtv2.webp" tvg-id="vtv2hd-EPG" tvg-name="vtv2hd-id",VTV2 HD
@@ -23,7 +23,7 @@ https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.ibb.co/FHFdRNC/ccvtv9.webp" tvg-id="8a03c609bd184e905a811c207aca42b4",VTV9 HD
 https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist.m3u8
 
-#-----------------------htv-------------------------------#
+#-----------------------HTV-------------------------------#
 #EXTINF:-1 group-title="HTV" tvg-logo="https://i.ibb.co/cw0Jym1/cchtvkey.webp" tvg-id="6dcfc8a79c8341d5a4c5bf672928fba4",HTV Keys HD
 https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="HTV" tvg-logo="https://i.ibb.co/R6myMTc/cchtvthethao.webp" tvg-id="cecd99d151bcb92a3866024f08c07b9f",HTV Thể Thao HD
@@ -95,11 +95,11 @@ https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b2500000.m3u8
 https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
 
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.ibb.co/WG9xkxb/ccquochoi.webp",Quốc Hội TV
-https://media.quochoitv.vn/live/quochoitv_480p/stream.m3u8
+https://live.fptplay53.net/fnxhd2/quochoivn_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-id="qpvnhd" tvg-logo="https://i.ibb.co/tK6PMzy/ccquocphong.webp",Quốc Phòng TV
-https://liveh34.vtvcab.vn/hls/ONQUOCPHONG_CL/index.m3u8
+https://live.fptplay53.net/fnxhd2/quochoivn_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-id="antvhd" tvg-logo="https://i.ibb.co/P6ZDPCf/ccanninh.webp",An Ninh TV
-https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
+https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-id="nhandan" tvg-logo="https://i.ibb.co/P1cSJjp/ccnhandan.png",Nhân Dân TV
 https://live.fptplay53.net/fnxhd2/truyenhinhnhandan_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ttxvnhd" group-title="Địa phương" tvg-logo="https://i.ibb.co/9G9bfmf/ccthongtan.webp",V.News TV
@@ -159,13 +159,13 @@ https://live.fptplay53.net/epzsd1/dongnai1_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-id="dongnai2" tvg-logo="https://i.ibb.co/0sm75cC/ccdongnai2.webp",Đồng Nai 2
 https://live.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-id="dongthap" tvg-logo="https://i.ibb.co/ZcfJyD2/ccdongthap.webp",Đồng Tháp 1
-https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
+https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-id="mientay" tvg-logo="https://i.ibb.co/CVdMzC3/ccmientay.webp",Đồng Tháp 2
-https://64d0d74b76158.streamlock.net/THDT2/thdttv2/playlist.m3u8
+https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-id="hanoi1" tvg-logo="https://i.ibb.co/yQxsXhs/cchanoi1.webp",Hà Nội 1
-https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8
+https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-id="hanoi2" tvg-logo="https://i.ibb.co/B4Gy5BW/cchanoi2.webp",Hà Nội 2
-https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8
+https://live.fptplay53.net/fnxhd2/hanoitv2_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-id="hanam" tvg-logo="https://i.ibb.co/pvjwJSL/cchanam.webp",Hà Nam
 https://live.fptplay53.net/fnxsd1/hanam_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-id="hagiang" tvg-logo="https://i.ibb.co/2tJgRCq/cchagiang.webp",Hà Giang
