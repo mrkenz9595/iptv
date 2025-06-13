@@ -53,34 +53,6 @@ https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="HTV" tvg-logo="https://i.ibb.co/vhLGXcK/cchtvcplus.webp" tvg-id="fd51b6c6836ec943e7ad21f0036f879e",HTVC+ HD
 https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
 
-#-----------------------VTC-------------------------------#
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/mC3Cvfm/ccvtc1.webp" tvg-id="fb0ac43a4ee4b8c9a4217dcc64912702",VTC1 HD
-https://live.fptplay53.net/fnxhd2/vtc1_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/MfRJfgm/ccvtc2.webp" tvg-id="fb0ac43a4ee4b8c9a4217dcc64912702",VTC2 HD
-https://live.fptplay53.net/fnxhd2/vtc2_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/bRsBcyd/ccvtc3.webp" tvg-id="3d846e6634d05c62ffd12721005852f5",VTC3 HD
-https://live.fptplay53.net/fnxhd2/vtc3hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/c1MK3VC/ccvtc4.webp" tvg-id="a5cdd28d8f6f252e0b7044f03abc62ae",VTC4 HD
-https://live.fptplay53.net/fnxhd2/vtc4_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/v1bS1qB/ccvtc5.webp" tvg-id="a5cdd28d8f6f252e0b7044f03abc62ae",VTC5 HD
-https://live.fptplay53.net/fnxhd2/vtc5_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/mSVx5qD/ccvtc6.webp" tvg-id="e557f59a2e98964ebb02cbb680beb520",VTC6 HD
-https://live.fptplay53.net/fnxhd2/vtc6_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/GM316DX/ccvtc7.webp" tvg-id="01faa81a8fd641b6054c5c487909fa99",VTC7 HD
-https://live.fptplay53.net/fnxhd2/todaytv_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/9ykJYxD/ccvtc8.webp" tvg-id="4621f306582ff303e6a3dc855749e1e3",VTC8 HD
-https://live.fptplay53.net/fnxhd2/vtc8_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/GcXQ0h2/ccvtc9.webp" tvg-id="83d28e41038c5c60a30ad17df59ffe73",VTC9 HD
-https://live.fptplay53.net/fnxhd2/vtc9_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/4fPKsm7/ccvtv10.webp" tvg-id="83d28e41038c5c60a30ad17df59ffe73",VTC10 HD
-https://live.fptplay53.net/fnxhd2/vtc10hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/j88bPrT/ccvtc11.webp" tvg-id="83d28e41038c5c60a30ad17df59ffe73",VTC11 HD
-https://live.fptplay53.net/fnxhd2/vtc11_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/q1SbBCG/ccvtc14.webp" tvg-id="83d28e41038c5c60a30ad17df59ffe73",VTC14 HD
-https://live.fptplay53.net/fnxhd2/vtc14_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/gvCYsdQ/ccvtc16.webp" tvg-id="83d28e41038c5c60a30ad17df59ffe73",VTC16 HD
-https://live.fptplay53.net/fnxhd2/vtc16_hls.smil/chunklist.m3u8
-
 
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://i.imgur.com/oPjCa43.png",SCTV1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
